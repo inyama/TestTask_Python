@@ -197,6 +197,3 @@ The more keys (and apps) you have the more threads could be run simultaneously.
 Now it contains only one test key, so you need to create new keys and add them into this file. 
 Script in multithreading mode does not support *-r* option. Also *-ig* option switched on by default. 
 So it will not stop on errors and after reload will start from the beginning of the list.
-
-## How to
-If you want to know how to add Watson and Twitter keys see How_to.pdf attached file
